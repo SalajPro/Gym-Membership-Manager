@@ -6,7 +6,7 @@
 
 ## Features
 
-- Add new member
+- Add a new member
   - Name
   - Phone number
   - Membership type (Monthly / Quarterly / Yearly)
@@ -16,7 +16,7 @@
 - Search member by phone number
 - Show expired memberships
 - Update member details
-  - Change name / phone
+  - Change name/phone
   - Change membership type
   - Renew membership
 - Shows **current local time** and **current date (DD/MM/YYYY)** on the screen
@@ -28,7 +28,8 @@
 
 Your folder should look like this:
 Folder/
-│
-├── `main.py`
+│ 
+├── `main.py` 
 └── `gym.json` (auto-created after you add your first member)
+
 
