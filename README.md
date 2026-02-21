@@ -1,7 +1,5 @@
 # Gym Membership Manager
 
-**Owner:** Owner
-**Data Storage:** `gym.json` (saved locally, auto-loads on next run)
 **Requirements:** Python 3.10+
 
 ---
@@ -33,3 +31,4 @@ Folder/
 │
 ├── `main.py`
 └── `gym.json` (auto-created after you add your first member)
+
